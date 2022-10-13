@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Schell
+<h1>👋 Hi, I’m Joshua Schell</h1>
 
 [![MobySchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobyschell&count_private=true&show_icons=true&theme=radical)](https://github.com/mobyschell/github-readme-stats)
 

@@ -1,13 +1,10 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 
-<div align="center">
+<a href="https://github.com/MobySchell">
   <img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
-  [![MobySchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobyschell&count_private=true&show_icons=true&theme=radical)](https://github.com/mobyschell/github-readme-stats)
-</div>
-
-[![MobySchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobyschell&count_private=true&show_icons=true&theme=radical)](https://github.com/mobyschell/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobyschell&layout=compact)](https://github.com/mobyschell/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobySchell&theme=buefy&layout=compact" />
+</a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mobyschell)](https://github.com/mobyschell/github-readme-stats)
 

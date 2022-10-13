@@ -1,17 +1,18 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 <div>
   <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
-  <p>
+  <p padding="10px">
     Welcome to my profile, I am a passionate individual interested in changing the world!! 
   </p>
 </div>
 
 <br />
-
-<a href="https://github.com/MobySchell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobySchell&theme=buefy&layout=compact" />
-</a>
+<div>
+  <a href="https://github.com/MobySchell">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobySchell&theme=buefy&layout=compact" />
+  </a>
+</div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mobyschell)](https://github.com/mobyschell/github-readme-stats)
 

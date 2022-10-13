@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 <div>
   <img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
-  <p padding="10px">
+  <p align="right">
     Welcome to my profile, I am a passionate individual interested in changing the world!! 
   </p>
 </div>

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 
 <div>
-  <iframe src="https://giphy.com/embed/5ntdy5Ban1dIY" width="480" height="463" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-5ntdy5Ban1dIY">via GIPHY</a></p>
+  <img alt="coding how it's done" src="https://github.com/mobyschell/mobyschell/master/github/giphy.gif" />
 </div>
 
 [![MobySchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobyschell&count_private=true&show_icons=true&theme=radical)](https://github.com/mobyschell/github-readme-stats)

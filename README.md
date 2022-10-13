@@ -1,7 +1,13 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
+<div>
+  <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
+  <p>
+    Welcome to my profile, I am a passionate individual interested in changing the world!! 
+  </p>
+</div>
 
-<img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 <br />
+
 <a href="https://github.com/MobySchell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobySchell&theme=buefy&layout=compact" />

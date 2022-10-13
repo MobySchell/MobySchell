@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 
-<div>
-  <img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/master/github/giphy.gif" />
+<div align="center">
+  <img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 </div>
 
 [![MobySchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobyschell&count_private=true&show_icons=true&theme=radical)](https://github.com/mobyschell/github-readme-stats)

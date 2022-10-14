@@ -39,6 +39,11 @@
 
 - 📫 How to reach me ...
 
+<br/>
+<br/>
+<br/>
+
+<img align="center" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/this is fine.gif" />
 
 <!---
 MobySchell/MobySchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

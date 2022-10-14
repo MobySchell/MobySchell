@@ -22,17 +22,13 @@
 
 <br/>
 
-- 👀 I’m interested in ...
-
-
-<br/>
-
 - 🌱 I’m currently learning ...
+![My Skills](https://skillicons.dev/icons?i=react,git,github,mui)
+
 
 <br/>
 
-- 💞️ I’m looking to collaborate on ...
-
+- 👀 I’m interested in ...
 
 <br/>
 

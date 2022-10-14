@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Theoretically-Productive-brightgreen?style=appveyor" />
-  <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=appveyor" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=appveyor" />
+  <img src="https://img.shields.io/badge/Theoretically-Productive-brightgreen?style=for-the-badge=appveyor" />
+  <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=for-the-badge=appveyor" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=for-the-badge=appveyor" />
   </p>
 <br/>
 

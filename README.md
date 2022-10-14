@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Theoretically-Productive-brightgreen?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=for-the-badge&logo=appveyor" />
   </p>
 <br/>
 

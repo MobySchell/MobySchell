@@ -38,11 +38,10 @@
 <br/>
 
 - 📫 How to reach me ...
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/joshua-schell-0b2226182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
-<br/>
 <br/>
 <br/>
 

@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
-![badge](https://img.shields.io/badge/Theoretically-Productive-red)
 
 <br/>
 

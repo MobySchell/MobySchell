@@ -28,7 +28,7 @@
 <br/>
 
 - 👀 I’m interested in ...
-![My Skills](https://skillicons.dev/icons?i=flutter,mongodb,node.js)
+![My Skills](https://skillicons.dev/icons?i=flutter,mongodb,nodejs)
 
 <br/>
 

@@ -10,7 +10,7 @@
   <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 </div>
 
-< /br>
+<br />
 
 <div align="left">
   <a href="https://github.com/MobySchell">

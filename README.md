@@ -2,12 +2,11 @@
 
 <br/>
 
-<p align="right">
-  Welcome to my profile, I am a passionate individual interested in changing the world!! 
-</p>
-
 <div display="block">
   <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
+  <p align="right">
+  <h2>Welcome to my profile, I am a passionate individual interested in changing the world!!</h2> 
+  </p>
 </div>
 
 <br/>

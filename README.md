@@ -10,6 +10,8 @@
   <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 </div>
 
+< /br>
+
 <div align="left">
   <a href="https://github.com/MobySchell">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />

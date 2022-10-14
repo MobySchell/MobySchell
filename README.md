@@ -39,7 +39,7 @@
 
 - 📫 How to reach me ...
 <p align="center">
-  <img src="https://img.shields.io/badge/https://img.shields.io/github/followers/MobySchell?label=Follow&style=social" />
+  <a href="https://img.shields.io/badge/https://img.shields.io/github/followers/MobySchell?label=Follow&style=social"></a>
   <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=for-the-badge" />
   </p>

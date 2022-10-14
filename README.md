@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Theoretically-Productive-red" />
-  <img src="https://img.shields.io/badge/Working On-Bettering Myself-red" />
+  <img src="https://img.shields.io/badge/Theoretically-Productive-red?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Working On-Bettering Myself-red?style=for-the-badge&logo=appveyor" />
   </p>
 <br/>
 

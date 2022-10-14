@@ -20,10 +20,24 @@
 
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mobyschell)](https://github.com/mobyschell/github-readme-stats)
 
+<br/>
+
 - 👀 I’m interested in ...
+
+
+<br/>
+
 - 🌱 I’m currently learning ...
+
+<br/>
+
 - 💞️ I’m looking to collaborate on ...
+
+
+<br/>
+
 - 📫 How to reach me ...
+
 
 <!---
 MobySchell/MobySchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

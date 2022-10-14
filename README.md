@@ -2,7 +2,7 @@
 
 <br />
 
-<p align="right">
+<p align="right" height="100px">
   Welcome to my profile, I am a passionate individual interested in changing the world!! 
 </p>
 

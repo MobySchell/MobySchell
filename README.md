@@ -6,7 +6,7 @@
   </p>
 <br/>
 
-<p display="block">
+<p>
   <p align="center">
   <h2><p align="left">Welcome to my profile,</p>
     <p align="left">I am a passionate individual interested in changing the world!!<p></h2> 

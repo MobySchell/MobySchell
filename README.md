@@ -22,9 +22,8 @@
 
 <br/>
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning ...
 ![My Skills](https://skillicons.dev/icons?i=react,git,github,mui)
-
 
 <br/>
 

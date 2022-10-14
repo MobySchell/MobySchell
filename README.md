@@ -39,9 +39,7 @@
 
 - 📫 How to reach me ...
 <p align="center">
-  ![Follow](https://img.shields.io/github/followers/MobySchell?style=social)
-  <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/joshua-schell-0b2226182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
 <br/>

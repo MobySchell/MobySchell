@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Joshua Schell</h1>
 <p align="center">
-  <a href="https://img.shields.io/badge/<Theoretically>-<Productive>-<red>" alt="badge"></a>
+  <img src="https://img.shields.io/badge/<Theoretically>-<Productive>-<red>" />
   </p>
 <br/>
 

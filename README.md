@@ -2,21 +2,21 @@
 
 <br/>
 
-<div display="block">
+<p display="block">
   <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
   <p align="right">
   <h2>Welcome to my profile, I am a passionate individual interested in changing the world!!</h2> 
   </p>
-</div>
+</p>
 
 <br/>
 
-<div align="left">
+<p align="left">
   <a href="https://github.com/MobySchell">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MobySchell&theme=buefy&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobySchell&theme=buefy&layout=compact" />
   </a>
-</div>
+</p>
 
 [![Joshua's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mobyschell)](https://github.com/mobyschell/github-readme-stats)
 

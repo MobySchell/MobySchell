@@ -3,10 +3,10 @@
 <br/>
 
 <p display="block">
-  <img align="left" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
-  <p align="right">
+  <p align="left">
   <h2>Welcome to my profile, I am a passionate individual interested in changing the world!!</h2> 
   </p>
+  <img align="right" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 </p>
 
 <br/>

@@ -8,7 +8,8 @@
 
 <p display="block">
   <p align="center">
-  <h2>Welcome to my profile, I am a passionate individual interested in changing the world!!</h2> 
+  <h2>Welcome to my profile,</h2> 
+  <h2>I am a passionate individual interested in changing the world!!</h2> 
   </p>
   <img align="center" alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
 </p>

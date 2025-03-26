@@ -1,16 +1,6 @@
 
 <h1 align="center">Welcome To My Domain 🫡 I'm known as Joshua Schell🐚</h1>
 <h3 align="center">I'm a passionate software developer just traversing the jungle that is tech.</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Theoretically-Productive-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Working On-Bettering Myself-important?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS HUNGRY-red?style=for-the-badge" />
-</p>
-<p align="center">
-<img alt="coding how it's done" src="https://github.com/MobySchell/MobySchell/blob/master/github/giphy.gif" />
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobyschell" alt="mobyschell" /></a> </p>
 
 <div align="center">
   

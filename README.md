@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobyschell&label=Profile%20views&color=0e75b6&style=flat" alt="mobyschell" /> </p>
 
 <h1 align="center">Welcome To My Domain 🫡 I'm known as Joshua Schell🐚</h1>
 <h3 align="center">I'm a passionate software developer just traversing the jungle that is tech.</h3>

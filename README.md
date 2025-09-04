@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome To My Domain 🫡 I'm known as Joshua Schell🐚</h1>
-<h3 align="center">I'm a passionate software developer just traversing the jungle that is tech.</h3>
+<h3 align="center">I'm a software developer just traversing the jungle that is tech.</h3>
 
 <div align="center">
   

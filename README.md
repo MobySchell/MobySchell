@@ -4,7 +4,7 @@
 
 <div align="center">
   
-| 🔭 I’m currently working on   | 🌱 I’m currently learning | 👀 I’m interested in |
+| 🔭 I’m currently working on   | 🌱 I’m currently learning | 👀 Good Foundation In |
 | -------- | ------- | ------- |
 | Improving my skills  | ![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss)   | ![My Skills](https://skillicons.dev/icons?i=javascript,css,nodejs,git,github) |
 

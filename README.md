@@ -6,7 +6,7 @@
   
 | 🔭 I’m currently working on   | 🌱 I’m currently learning | 👀 Good Foundation In |
 | -------- | ------- | ------- |
-| Improving my skills  | ![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss)   | ![My Skills](https://skillicons.dev/icons?i=javascript,css,nodejs,git,github) |
+| Improving my skills  | ![My Skills](https://skillicons.dev/icons?i=nextjs,tailwindcss)   | ![My Skills](https://skillicons.dev/icons?i=javascript,css,git,github) |
 
 | 👯 I’m looking to collaborate on  | 💬 Ask me about | ⚡ Fun fact | Connect with me |
 | -------- | ------- | ------- | ------- | 
